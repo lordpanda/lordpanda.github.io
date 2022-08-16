@@ -5,7 +5,7 @@ var App = React.createClass({ displayName: "App",
         name: 'Minji \'Lord Panda\' Joe',
         biography: 'Description / Designer' },
 
-      image: 'http://static1.squarespace.com/static/55acc005e4b098e615cd80e2/t/57b057398419c2c454f09924/1471025851733/',
+      image: 'https://wallpaperaccess.com/full/692592.jpg',
       quote: {
         content: 'Beautiful things don\'t ask for attention',
         source: 'The Secret Life of Walter Mitty' } };
